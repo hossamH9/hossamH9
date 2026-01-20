@@ -1,31 +1,28 @@
 # Hi, I'm **Hossam Hassan** 👋  
-### Data Analyst | Business Intelligence | Data-Driven Decision Maker
+### Data Analyst | Business Intelligence | Data-Driven Decision Maker  
 
 <p align="center">
 <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-</a>&nbsp;
-<a href="https://github.com/your-github" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-</a>&nbsp;
-<a href="mailto:your@email.com">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://hossamhassan.journoportfolio.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/portfolio.svg" height="30" width="30" />
+  🌐 Portfolio
+</a>&nbsp;&nbsp;
+<a href="mailto:hh2045396@gmail.com">
+  📧 Email
 </a>
 </p>
 
 ---
 
 ## 👨‍💼 About Me
-I'm **Hossam Hassan**, a passionate **Data Analyst** with strong skills in analyzing data, building visual insights, and helping businesses make smarter decisions. I love turning raw data into meaningful stories that drive impact.
+I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for transforming raw data into clear insights and impactful dashboards that support business decisions.
 
-📍 Based in **UAE & open to global opportunities**
+📍 Based in **UAE** | Open to Data Analyst & BI roles  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55"/>
@@ -38,29 +35,22 @@ I'm **Hossam Hassan**, a passionate **Data Analyst** with strong skills in analy
 ---
 
 ## 🔍 Core Skills
-- 📊 Data Cleaning & Preparation  
-- 📌 SQL Queries & Database Analysis  
-- 🐍 Python (Pandas, NumPy, Matplotlib)  
-- 📈 Power BI Dashboarding & DAX  
-- 📊 Advanced Excel (Pivot Tables, VLOOKUP, IF, etc.)  
-- 📈 KPI Tracking & Business Reporting  
+- Data Cleaning & Data Preparation  
+- SQL Queries & Database Analysis  
+- Python for Data Analysis (Pandas, NumPy)  
+- Power BI Dashboards & DAX  
+- Excel (Pivot Tables, Advanced Formulas)  
+- KPI Tracking & Business Reporting  
 
 ---
 
-## 💼 Projects & Portfolio Highlights
-🔹 **Sales Performance Dashboard (Power BI)**  
-- Created dynamic dashboards with slicers and filters  
-- Presented sales trends and insights for decision-making
+## 📂 Projects & Portfolio
+🔹 **Sales Dashboard – Power BI**  
+🔹 **Customer Segmentation Analysis – SQL & Python**  
+🔹 **Data Cleaning & Transformation Projects**
 
-🔹 **Customer Segmentation Analysis**  
-- Used SQL & Python to analyze customer behavior  
-- Identified top segments and key metrics
-
-🔹 **Data Cleaning & ETL Workflows**  
-- Processed messy datasets into usable format for reports
-
-👉 Explore all projects and dashboards on my portfolio:  
-🔗 https://hossamhassan.journoportfolio.com
+👉 View all projects here:  
+🔗 **https://hossamhassan.journoportfolio.com**
 
 ---
 
@@ -70,10 +60,9 @@ I'm **Hossam Hassan**, a passionate **Data Analyst** with strong skills in analy
 
 ---
 
-## 📫 Contact Me
-- 🔗 **LinkedIn:** http://linkedin.com/in/hossam-hassan-434a3b223  
+## 🤝 Let’s Connect
+- 💼 **LinkedIn:** http://linkedin.com/in/hossam-hassan-434a3b223  
 - 🌐 **Portfolio:** https://hossamhassan.journoportfolio.com  
-- 📧 **Email:** your@email.com
+- 📧 **Email:** hh2045396@gmail.com  
 
-⭐ *Thanks for visiting my profile! Feel free to clone any project or reach out for collaboration.*
-
+⭐ Feel free to explore my repositories and projects.
