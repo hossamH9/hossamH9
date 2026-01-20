@@ -2,15 +2,15 @@
 ### Data Analyst | Business Intelligence | Data-Driven Decision Maker  
 
 <p align="center">
-<a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-</a>&nbsp;&nbsp;
-<a href="https://hossamhassan.journoportfolio.com" target="blank">
-  🌐 Portfolio
-</a>&nbsp;&nbsp;
-<a href="mailto:hh2045396@gmail.com">
-  📧 Email
-</a>
+  <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="https://hossamhassan.journoportfolio.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/portfolio.svg" height="35" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:hh2045396@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
+  </a>
 </p>
 
 ---
@@ -49,8 +49,7 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
 🔹 **Customer Segmentation Analysis – SQL & Python**  
 🔹 **Data Cleaning & Transformation Projects**
 
-👉 View all projects here:  
-🔗 **https://hossamhassan.journoportfolio.com**
+👉 Explore all projects on my portfolio  
 
 ---
 
@@ -61,8 +60,14 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
 ---
 
 ## 🤝 Let’s Connect
-- 💼 **LinkedIn:** http://linkedin.com/in/hossam-hassan-434a3b223  
-- 🌐 **Portfolio:** https://hossamhassan.journoportfolio.com  
-- 📧 **Email:** hh2045396@gmail.com  
-
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="https://hossamhassan.journoportfolio.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/portfolio.svg" height="35" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:hh2045396@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
+  </a>
+</p>
