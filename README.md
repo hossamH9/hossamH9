@@ -45,7 +45,7 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
 ---
 
 ## 📂 Projects & Portfolio
-🔹 **Sales Dashboard – Power BI**  
+🔹 **Car Sales Dashboard – Power BI**  
 🔹 **Customer Segmentation Analysis – SQL & Python**  
 🔹 **Data Cleaning & Transformation Projects**
 
