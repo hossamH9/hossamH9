@@ -2,27 +2,16 @@
 ### Data Analyst | Business Intelligence | Data-Driven Decision Maker  
 
 <p align="center">
-  <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
-  </a>&nbsp;&nbsp;
-
-  <!-- Animated Portfolio Icon -->
-  <a href="https://hossamhassan.journoportfolio.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/86/P_letter_black_icon.svg" height="35" width="35" style="animation: bounce 1.5s infinite;"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:hh2045396@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
-  </a>
+<a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
+</a>&nbsp;&nbsp;
+<a href="https://hossamhassan.journoportfolio.com" target="blank">
+  🌐 Portfolio
+</a>&nbsp;&nbsp;
+<a href="mailto:hh2045396@gmail.com">
+  📧 Email
+</a>
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-8px); }
-  60% { transform: translateY(-4px); }
-}
-</style>
 
 ---
 
@@ -60,7 +49,8 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
 🔹 **Customer Segmentation Analysis – SQL & Python**  
 🔹 **Data Cleaning & Transformation Projects**
 
-👉 Explore all projects on my portfolio  
+👉 View all projects here:  
+🔗 **https://hossamhassan.journoportfolio.com**
 
 ---
 
@@ -71,17 +61,8 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
 ---
 
 ## 🤝 Let’s Connect
-<p align="center">
-  <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
-  </a>&nbsp;&nbsp;
+- 💼 **LinkedIn:** http://linkedin.com/in/hossam-hassan-434a3b223  
+- 🌐 **Portfolio:** https://hossamhassan.journoportfolio.com  
+- 📧 **Email:** hh2045396@gmail.com  
 
-  <!-- Animated Portfolio Icon -->
-  <a href="https://hossamhassan.journoportfolio.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/86/P_letter_black_icon.svg" height="35" width="35" style="animation: bounce 1.5s infinite;"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:hh2045396@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
-  </a>
-</p>
+⭐ Feel free to explore my repositories and projects.
