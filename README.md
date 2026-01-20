@@ -6,7 +6,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
   </a>&nbsp;&nbsp;
   <a href="https://hossamhassan.journoportfolio.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/portfolio.svg" height="35" width="35" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/86/P_letter_black_icon.svg" height="35" width="35" />
   </a>&nbsp;&nbsp;
   <a href="mailto:hh2045396@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
@@ -65,7 +65,7 @@ I'm **Hossam Hassan**, a motivated **Data Analyst** with a strong passion for tr
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" width="35" />
   </a>&nbsp;&nbsp;
   <a href="https://hossamhassan.journoportfolio.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/portfolio.svg" height="35" width="35" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/86/P_letter_black_icon.svg" height="35" width="35" />
   </a>&nbsp;&nbsp;
   <a href="mailto:hh2045396@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="35" width="35" />
