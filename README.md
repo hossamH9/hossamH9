@@ -1,5 +1,5 @@
 # Hi, I'm **Hossam Hassan** 👋  
-### DataBase  | Data Analyst | Business Intelligence | Data-Driven Decision Maker  
+### Database  | Data Analyst | Business Intelligence | Data-Driven Decision Maker  
 
 <p align="center">
 <a href="http://linkedin.com/in/hossam-hassan-434a3b223" target="blank">
